@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hw1ceng.Altyapı">
+    <ContentPage.Content>
+        <StackLayout >
+            <ListView>
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Derslik-B1</x:String>
+
+                        <x:String>Derslik-B2</x:String>
+                        <x:String>Derslik-B3</x:String>
+                        <x:String>Derslik-B4</x:String>
+                        <x:String>Derslik-B5</x:String>
+                        <x:String>Derslik-B6</x:String>
+                        <x:String>Derslik-B7</x:String>
+                        <x:String>Lab-01</x:String>
+                        <x:String>Lab-02</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

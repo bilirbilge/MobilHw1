@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hw1ceng.Kişiler">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/aarslan2.jpg" WidthRequest="96" HeightRequest="120" />
+            <Label Text ="Dr. Öğr. Üyesi Ahmet ARSLAN" FontSize="Micro" />
+            <Image Source="http://ceng.eskisehir.edu.tr/img/yhoscan.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Prof. Dr. Yaşar Hoşcan" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/serkangunal.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Doç.Dr. Serkan GÜNAL" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/ckaleli.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Doç. Dr. Cihan Kaleli" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/akuysal.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Dr.Öğr. Üyesi Alper Kürşat UYSAL " FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/abilge.png" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Dr.Öğr. Üyesi Alper BİLGE" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/sevcany.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Dr.Öğr. Üyesi Sevcan YILMAZ GÜNDÜZ" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/byurekli.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst.Dr. Burcu YÜREKLİ YILMAZEL" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/oozsen.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Lect. Özgür ÖZŞEN" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/ekacmaz.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Lect. Emre KAÇMAZ" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/roaltug.jpeg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Lect. Reha Oğuz ALTUĞ" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/ayargic.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Alper YARGIÇ" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/etdemirkiran.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Emin Talip DEMİRKIRAN" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/rasimcekik.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Rasim ÇEKİK" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/mypak.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Muhammet Yasin PAK" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/zozdemir.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Zeynep BATMAZ" FontSize="Micro" />
+            <Image Source="http://ceng.eskisehir.edu.tr/img/bekirparlak.bmp" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Bekir PARLAK" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/tugbaturkoglu.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Tuğba TÜRKOĞLU KAYA" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/gciplak.bmp" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Gökhan ÇIPLAK" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/ahmetaydin.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Ahmet AYDIN" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/sbaydemir.JPG" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Salih Berkan AYDEMiR" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/ahmetalkilinc.jpeg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Ahmet ALKILINÇ" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/iterzi.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. İsmail Terzi" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/turgutdogan.bmp" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Res.Asst. Turgut DOĞAN" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/htiryaki.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Lect. Hande ÖZDEMİR" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/aysesenel.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Dept. Secretary Ayşe ŞENEL" FontSize="Micro"/>
+            <Image Source="http://ceng.eskisehir.edu.tr/img/serdogan.jpg" WidthRequest="96" HeightRequest="120"/>
+            <Label Text="Secretary Sibel Erdoğan" FontSize="Micro"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

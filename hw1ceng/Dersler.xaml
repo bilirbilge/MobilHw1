@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hw1ceng.Dersler">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Bu Dönem Yürütülen Lisans ve Lisansüstü Ders Bilgileri"
+               IsVisible="true"
+               FontSize="Medium"
+               TextColor="Red" />
+            <Label Text="BIL519 - İleri Algoritma Analizi" FontSize="Micro"/>
+            <Label Text="BIL551 - İleri Veri Tabanı Yönetim Sistemleri" FontSize="Micro"/>
+            <Label Text="BIL561 - Bulanık Sinir Ağları" FontSize="Micro"/>
+            <Label Text="BIL567 - Öneri Sistemlerine Giriş" FontSize="Micro"/>
+            <Label Text="BIM101 - Bilgisayar Programlama I" FontSize="Micro"/>
+            <Label Text="BIM203 - Mantık Tasarımı" FontSize="Micro"/>
+            <Label Text="BIM207 - Bilgisayar Programlama III" FontSize="Micro"/>
+            <Label Text="BIM209 - Yazılım Tasarlama ve Geliştirme Prensipleri" FontSize="Micro"/>
+            <Label Text="BIM213 - Veri Yapıları ve Algoritmalar" FontSize="Micro"/>
+            <Label Text="BIM302 - Bilgisayar Ağları" FontSize="Micro"/>
+            <Label Text="BIM303 - Mikrobilgisayarlar" FontSize="Micro"/>
+            <Label Text="BIM305 - Bilgisayar Organizasyonu" FontSize="Micro"/>
+            <Label Text="BIM306 - İşletim Sistemleri" FontSize="Micro"/>
+            <Label Text="BIM308 - Web Sunucu Programlama" FontSize="Micro"/>
+            <Label Text="BIM309 - Yapay Us" FontSize="Micro"/>
+            <Label Text="BIM313 - İleri Programlama Teknikleri" FontSize="Micro"/>
+            <Label Text="BIM314 - Hesaplama Kuramı" FontSize="Micro"/>
+            <Label Text="BIM405 - Proje Yönetimi" FontSize="Micro"/>
+            <Label Text="BIM423 - Yazılım Mühendisliği" FontSize="Micro"/>
+            <Label Text="BIM437 - Bilgisayar Mühendisliği Tasarımları" FontSize="Micro"/>
+            <Label Text="BIM439 - Veritabanı Yönetim Sistemleri Uygulamaları" FontSize="Micro"/>
+            <Label Text="BIM451 - MVC ile Web Sunucu Programlama" FontSize="Micro"/>
+            <Label Text="BIM466 - Bulanık Mantık" FontSize="Micro"/>
+            <Label Text="BIM478 - Yönetim Bilişim Sistemleri" FontSize="Micro"/>
+            <Label Text="BIM485 - Bilgisayar Bilimlerinde Araştırma I - L (Alper Bilge)" FontSize="Micro"/>
+            <Label Text="BIM488 - Örüntü Tanımaya Giriş" FontSize="Micro"/>
+            <Label Text="BIM490 - Bilgi Erişim Sistemleri" FontSize="Micro"/>
+            <Label Text="BIM492 - Tasarım Örüntüleri" FontSize="Micro"/>
+            <Label Text="BIM493 - Mobil Programlama I" FontSize="Micro"/>
+            <Label Text="İST252 - Olasılık ve İstatistik" FontSize="Micro"/>
+            <Label Text="MAT249 - Lineer Cebir ve Diferansiyel Denklemler" FontSize="Micro"/>
+            <Label Text="MAT806 - Matematik II" FontSize="Micro"/>
+
+           
+
+            <Label Text="Ders Etiği"
+               IsVisible="true"
+               FontSize="Medium"
+               TextColor="Red" />
+            <Label Text="Akademik Dürüstlük Bildirisi"
+               IsVisible="true"
+               FontSize="Micro"
+             
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
